@@ -1,0 +1,23 @@
+{
+  "name": "grasp-cypress",
+  "version": "1.0.0",
+  "description": "Following [Cypress tutorial on Test automation university by Gil Tayar](https://testautomationu.applitools.com/cypress-tutorial/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaurav-singh/grasp-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaurav-singh/grasp-cypress/issues"
+  },
+  "homepage": "https://github.com/gaurav-singh/grasp-cypress#readme",
+  "dependencies": {
+    "cypress": "^3.8.3"
+  }
+}
